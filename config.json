@@ -4,7 +4,7 @@
     "rel": "1"
   },
   "git": {
-    "repo": "https://github.com/streamlink/streamlink.git",
+    "repo": "https://github.com/sergal-IRL/streamlink.git",
     "ref": "6.2.0"
   },
   "assets": {
